@@ -9,9 +9,7 @@
 - **Cloud Platforms:** AWS, Azure
 - **Databases:** MySQL, MongoDB, SQL Server
 
-🌱 **I'm currently learning:**
-Advanced ML techniques and cloud data engineering
-
+- 
 💬 **Ask me about:**
 Data analysis, dashboard creation, or ML project collaboration
 
