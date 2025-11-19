@@ -1,8 +1,6 @@
 # 💫 About Me :
 🔍 Data Analyst & AI Enthusiast | Transforming data into actionable insights
 
-🛠️ **I'm currently working on:**
-Advanced data analysis projects and exploring machine learning applications for business intelligence
 
 🚀 **My Skills:**
 - **Data Analysis:** SQL, Python, Power BI, Tableau, Excel
@@ -11,14 +9,16 @@ Advanced data analysis projects and exploring machine learning applications for 
 - **Cloud Platforms:** AWS, Azure
 - **Databases:** MySQL, MongoDB, SQL Server
 
+🌱 **I'm currently learning:**
+Advanced ML techniques and cloud data engineering
 
 💬 **Ask me about:**
 Data analysis, dashboard creation, or ML project collaboration
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-khawer){:target="_blank"}
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://ibrahim-khawer.github.io/portfolio/){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-khawer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://ibrahim-khawer.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ibrahmkhawer15@gmail.com)
 
 # 💻 Tech Stack
@@ -47,15 +47,21 @@ Data analysis, dashboard creation, or ML project collaboration
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Khawer&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ibrahim-Khawer&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Khawer&theme=radical&hide_border=true)
   
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ibrahim-Khawer&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ibrahim-Khawer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 Weekly Development Breakdown
-```text
-Python       🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   45%
-SQL          🟩🟩🟩🟩🟩🟩🟩🟩        32%
-Other        🟪🟪                    8%
+---
+
+<div align="center">
+  
+  ### 🎯 Visitor Count
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Ibrahim-Khawer&color=blueviolet)
+  
+  ### ⚡ Fun Fact
+  *I turn coffee ☕ into code 💻 and data 📊 into decisions!*
+  
+</div>
