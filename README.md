@@ -47,8 +47,8 @@ Data analysis, dashboard creation, or ML project collaboration
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Khawer&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Khawer&theme=radical&hide_border=true)
-  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ibrahim-Khawer&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ## 🏆 GitHub Trophies
