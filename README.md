@@ -6,10 +6,8 @@
 - **Data Analysis:** SQL, Python, Power BI, Tableau, Excel
 - **Machine Learning:** Scikit-learn, PyTorch
 - **Data Visualization:** Plotly, Matplotlib, Seaborn
-- **Cloud Platforms:** AWS, Azure
 - **Databases:** MySQL, MongoDB, SQL Server
 
-- 
 💬 **Ask me about:**
 Data analysis, dashboard creation, or ML project collaboration
 
